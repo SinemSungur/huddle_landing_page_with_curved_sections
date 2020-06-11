@@ -1,28 +1,27 @@
 {
-    "name": "personal-portfolio",
+    "name": "huddle-landing-page-with-curved-sections",
     "version": "1.0.0",
-    "description": "A personal portfolio developed with CSS3, media queries, responsive design integration techniques, Bootstrap 4, Font Awesome 4.7.0, flex technologies",
+    "description": "A huddle landing page challenged by Frontend Mentor developed with CSS3, HTML5, flex technologies, responsive integration technologies",
     "scripts": {
       "start": "lite-server"
     },
     "repository": {
       "type": "git",
-      "url": "git+https://github.com/SinemSungur/personal-portfolio"
+      "url": "git+https://github.com/SinemSungur/huddle_landing_page_with_curved_sections/tree/develop"
     },
     "keywords": [
       "css3",
       "html5",
       "flex",
       "responsive-web-design",
-      "bootstrap",
-      "media-queries"
+      "grid"
     ],
     "author": "Sinem Sungur",
     "license": "MIT",
     "bugs": {
-      "url": "https://github.com/SinemSungur/personal-portfolio/issues"
+      "url": "https://github.com/SinemSungur/huddle_landing_page_with_curved_sections/tree/develop"
     },
-    "homepage": "https://github.com/SinemSungur/personal-portfolio#readme",
+    "homepage": "https://github.com/SinemSungur/huddle_landing_page_with_curved_sections/tree/develop#readme",
     "dependencies": {
       "lite-server": "^2.5.4"
     }
